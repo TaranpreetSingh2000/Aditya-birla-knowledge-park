@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Wireless Bluetooth Headphones",
+    "price": 1999,
+    "description": "Experience high-quality sound with these wireless Bluetooth headphones featuring noise cancellation and long battery life.",
+    "slug": "wireless-bluetooth-headphones"
+  },
+  {
+    "title": "Smart LED Watch",
+    "price": 2599,
+    "description": "Track your fitness and notifications on the go with this stylish smart LED watch.",
+    "slug": "smart-led-watch"
+  },
+  {
+    "title": "Portable Power Bank 10000mAh",
+    "price": 1299,
+    "description": "Keep your devices charged with this compact and powerful 10000mAh power bank.",
+    "slug": "portable-power-bank-10000mah"
+  },
+  {
+    "title": "Ergonomic Office Chair",
+    "price": 5499,
+    "description": "Support your back during long work hours with this adjustable ergonomic office chair.",
+    "slug": "ergonomic-office-chair"
+  },
+  {
+    "title": "Wireless Gaming Mouse",
+    "price": 899,
+    "description": "Enhance your gameplay with a responsive, wireless gaming mouse featuring customizable DPI settings.",
+    "slug": "wireless-gaming-mouse"
+  }
+]
