@@ -6,19 +6,48 @@ const AutomateData = () => {
   const [update, setUpdate] = useState(false);
   const STRAPI_URL = "http://localhost:1337";
 
-  // 1. Upload image to Strapi
+  async function convertBlobToPng(blob, filename) {
+    return new Promise((resolve) => {
+      const img = new Image();
+      const url = URL.createObjectURL(blob);
+
+      img.onload = () => {
+        const canvas = document.createElement("canvas");
+        canvas.width = img.width;
+        canvas.height = img.height;
+
+        const ctx = canvas.getContext("2d");
+        ctx.drawImage(img, 0, 0);
+
+        canvas.toBlob((newBlob) => {
+          const file = new File([newBlob], filename, { type: "image/avif" });
+          resolve(file);
+        }, "image/avif");
+      };
+
+      img.src = url;
+    });
+  }
+
   const uploadUserImage = async (imageUrl) => {
     try {
       const response = await fetch(imageUrl);
-      const blob = await response.blob();
-      let filename = imageUrl.split("/").pop();
+      const jpegBlob = await response.blob();
+      let filename = imageUrl.split("/").pop() || "upload.jpg";
 
       filename = filename.includes("_")
         ? filename.split("_").join("").toLowerCase()
         : filename.toLowerCase();
 
+      let file;
+      if (jpegBlob.type === "image/jpeg") {
+        file = await convertBlobToPng(jpegBlob, filename);
+      } else {
+        file = new File([jpegBlob], filename, { type: jpegBlob.type });
+      }
+
       const formData = new FormData();
-      formData.append("files", blob, filename);
+      formData.append("files", file);
 
       const uploadRes = await fetch(`${STRAPI_URL}/api/upload`, {
         method: "POST",
