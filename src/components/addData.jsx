@@ -38,8 +38,10 @@ const AddData = () => {
             );
           }
 
-          const resData = await response.json();
-          console.log("Added:", resData.data.name);
+          if (response.status === 200) {
+            const resData = await response.json();
+            console.log("Added:", resData.data.name);
+          }
         } catch (error) {}
       }
     };
