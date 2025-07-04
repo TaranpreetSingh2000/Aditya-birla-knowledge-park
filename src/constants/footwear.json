@@ -1,0 +1,801 @@
+[
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e65b"
+    },
+    "name": "Men's 512 Dark Indigo Slim Tapered Fit Jeans",
+    "price": 2299,
+    "actualprice": 4599,
+    "offerpercent": 50,
+    "image": [
+      {
+        "public_id": "Men's 512 Dark Indigo Slim Tapered Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/360870752_01_Style_Shot_5bad113c-3565-4360-9078-e9351dbc4aa3.jpg?v=1702386014&width=1034"
+      }
+    ],
+    "category": ["Mens", "Jeans", "Slim Fit"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 3.5,
+    "href": "/products/66714d2ab56ddd2ad361e65b"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e658"
+    },
+    "name": "Men's 511 Dark Indigo Slim Fit Jeans",
+    "price": 2899,
+    "actualprice": 5799,
+    "offerpercent": 50,
+    "image": [
+      {
+        "public_id": "Men's 511 Dark Indigo Slim Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/182981377_01_Front_e6457225-c467-4f7c-bc70-92ea79d6661d.jpg?v=1712742557&width=1034"
+      }
+    ],
+    "category": ["Mens", "Jeans", "Slim Fit"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+    "free_shipping": true,
+    "rating": 4.5,
+    "href": "/products/66714d2ab56ddd2ad361e658"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e65c"
+    },
+    "name": "Men's 512 Mid Indigo Slim Tapered Fit Jeans",
+    "price": 2549,
+    "actualprice": 5099,
+    "offerpercent": 50,
+    "image": [
+      {
+        "public_id": "Men's 512 Mid Indigo Slim Tapered Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/360870741_10_Model_Front_a01103d4-9a8c-42a8-9404-08b4ec120147.jpg?v=1712742759&width=1034"
+      }
+    ],
+    "category": ["Mens", "Jeans", "Slim Fit"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 3,
+    "href": "/products/66714d2ab56ddd2ad361e65c"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e66a"
+    },
+    "name": "Men's Dark Indigo Skinny Taper Jeans",
+    "price": 3834,
+    "actualprice": 5899,
+    "offerpercent": 35,
+    "image": [
+      {
+        "public_id": "Men's Dark Indigo Skinny Taper Jeans image",
+        "url": "https://levi.in/cdn/shop/files/A83620000_01_Style_Shot_11604e0d-87bd-44b7-83ca-63fe67c2b81f.jpg?v=1712743210&width=1034"
+      }
+    ],
+    "category": ["Mens", "Jeans", "Skinny"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "rating": 2,
+    "free_shipping": false,
+    "href": "/products/66714d2ab56ddd2ad361e66a"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e66d"
+    },
+    "name": "Women's Bootcut Jeans",
+    "price": 2279,
+    "actualprice": 3799,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Women's Bootcut Jeans image",
+        "url": "https://levi.in/cdn/shop/files/A66420001_01_Style_Shot_e22639c7-fca6-42a2-a909-de019011c2fd.jpg?v=1695801187&width=1034"
+      }
+    ],
+    "category": ["Womens", "Jeans", "Bootcut"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 5,
+    "href": "/products/66714d2ab56ddd2ad361e66d"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e66e"
+    },
+    "name": "Women's Bootcut Jeans",
+    "price": 2459,
+    "actualprice": 4099,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Women's Bootcut Jeans image",
+        "url": "https://levi.in/cdn/shop/files/225950027_01_Style_Shot_68adb99d-1bf0-4f4e-8e6a-48973adcff26.jpg?v=1695725307&width=1034"
+      }
+    ],
+    "category": ["Womens", "Jeans", "Bootcut"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 4.3,
+    "href": "/products/66714d2ab56ddd2ad361e66e"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e671"
+    },
+    "name": "Women's Straight Fit Jeans",
+    "price": 3579,
+    "actualprice": 4299,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Women's Straight Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/A05920018_02_Front_72498a3e-5af2-46c3-90fa-58a360943b4f.jpg?v=1695725895&width=1034"
+      }
+    ],
+    "category": ["Womens", "Jeans", "Straight"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 5.4,
+    "href": "/products/66714d2ab56ddd2ad361e671"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e674"
+    },
+    "name": "Women's High Rise 721 Skinny Fit Jeans",
+    "price": 3119,
+    "actualprice": 5199,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Women's High Rise 721 Skinny Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/676670095_Front.jpg?v=1715681141&width=1080"
+      }
+    ],
+    "category": ["Womens", "Jeans", "Skinny"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 4,
+    "href": "/products/66714d2ab56ddd2ad361e674"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e677"
+    },
+    "name": "Women's Mid Rise Baggy Jeans",
+    "price": 2279,
+    "actualprice": 3799,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Women's Mid Rise Baggy Jeans image",
+        "url": "https://levi.in/cdn/shop/files/A55330006_04_Side_53d14e19-8fa0-408c-945f-754e07c9cf07.jpg?v=1712743276&width=1034"
+      }
+    ],
+    "category": ["Womens", "Jeans", "Baggy"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 3.2,
+    "href": "/products/66714d2ab56ddd2ad361e677"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e678"
+    },
+    "name": "Women's Mid Rise 710 Super Skinny Jeans",
+    "price": 1679,
+    "actualprice": 2799,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Women's Mid Rise 710 Super Skinny Jeans image",
+        "url": "https://levi.in/cdn/shop/files/213250290_1_Front_15623286-06cf-4b17-a3cf-1e4218c2e586.jpg?v=1700666563&width=1034"
+      }
+    ],
+    "category": ["Womens", "Jeans", "Skinny"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 2.6,
+    "href": "/products/66714d2ab56ddd2ad361e678"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e67d"
+    },
+    "name": "Women's Mid Rise 94 Baggy Fit Jeans",
+    "price": 2819,
+    "actualprice": 4699,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Women's Mid Rise 94 Baggy Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/A39410026_01_Style_Shot_f3858fad-69ce-44ce-8612-5817c6a4ecf7.jpg?v=1712743110&width=1034"
+      }
+    ],
+    "category": ["Womens", "Jeans", "Baggy"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 4.7,
+    "href": "/products/66714d2ab56ddd2ad361e67d"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e67e"
+    },
+    "name": "Women's Straight Fit Jeans",
+    "price": 1439,
+    "actualprice": 3199,
+    "offerpercent": 55,
+    "image": [
+      {
+        "public_id": "Women's Straight Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/A70910002_01_Front_f8906db6-7953-46d0-9c1e-bfa3b9fa7cbb.jpg?v=1699256922&width=1034"
+      }
+    ],
+    "category": ["Womens", "Jeans", "Straight"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 5,
+    "href": "/products/66714d2ab56ddd2ad361e67e"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e685"
+    },
+    "name": "Men's Solid Polo T-shirt",
+    "price": 1139,
+    "actualprice": 1899,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Men's Solid Polo T-shirt image",
+        "url": "https://levi.in/cdn/shop/files/747000116_01_Style_Shot_ed013543-8815-471f-bdd2-661eb0ddef6c.jpg?v=1712744481&width=1034"
+      }
+    ],
+    "category": ["Mens", "Polo", "T-shirt"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 2.5,
+    "href": "/products/66714d2ab56ddd2ad361e685"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e689"
+    },
+    "name": "Men's Graphic Slim Fit T-shirt",
+    "price": 839,
+    "actualprice": 1399,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Men's Graphic Slim Fit T-shirt image",
+        "url": "https://levi.in/cdn/shop/files/169610300_01_Front_ceba320f-0856-46fa-80b1-04e31f1c41dc.jpg?v=1712742199&width=1034"
+      }
+    ],
+    "category": ["Mens", "T-shirt"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 4.3,
+    "href": "/products/66714d2ab56ddd2ad361e689"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e68a"
+    },
+    "name": "Men's Colorblock Polo T-shirt",
+    "price": 1319,
+    "actualprice": 2199,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Men's Colorblock Polo T-shirt image",
+        "url": "https://levi.in/cdn/shop/files/174740300_01_Style_Shot_f7f22f1b-e9ac-4e9c-afdf-8176d7e5f445.jpg?v=1712744459&width=1034"
+      }
+    ],
+    "category": ["Mens", "Polo", "T-shirt"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 3.5,
+    "href": "/products/66714d2ab56ddd2ad361e68a"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e68e"
+    },
+    "name": "Men's Brand Logo Crew Neck T-shirt",
+    "price": 719,
+    "actualprice": 1199,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Men's Brand Logo Crew Neck T-shirt image",
+        "url": "https://levi.in/cdn/shop/files/169610302_01_Front_fe88a22d-32fb-4231-a23b-9ffab7ba698c.jpg?v=1699257016&width=1034"
+      }
+    ],
+    "category": ["Mens", "T-shirt"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 4,
+    "href": "/products/66714d2ab56ddd2ad361e68e"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e68f"
+    },
+    "name": "Men's Graphic Print Slim Fit T-shirt",
+    "price": 959,
+    "actualprice": 1599,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Men's Graphic Print Slim Fit T-shirt image",
+        "url": "https://levi.in/cdn/shop/files/169600930_01_Style_Shot_68fe1b74-60b4-4297-95d8-adf63fbf3e9c.jpg?v=1712742161&width=1034"
+      }
+    ],
+    "category": ["Mens", "T-shirt"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 4.4,
+    "href": "/products/66714d2ab56ddd2ad361e68f"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e69b"
+    },
+    "name": "Women's Graphic Dry Goods Short Sleeve Top",
+    "price": 1259,
+    "actualprice": 2099,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Women's Graphic Dry Goods Short Sleeve Top image",
+        "url": "https://levi.in/cdn/shop/files/A49370000_01_Front_42938747-61b7-434e-8025-d2d61fbde069.jpg?v=1712742714&width=1034"
+      }
+    ],
+    "category": ["Womens", "Tops"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 3,
+    "href": "/products/66714d2ab56ddd2ad361e69b"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6af"
+    },
+    "name": "Nike Dunk Low Retro",
+    "price": 1250,
+    "actualprice": 2400,
+    "offerpercent": 10,
+    "image": [
+      {
+        "public_id": "Nike Dunk Low Retro image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/F4188001.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 2,
+    "href": "/products/66714d2ab56ddd2ad361e6af"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6b5"
+    },
+    "name": "Nike Air Force 1 '07 LE Low",
+    "price": 1150,
+    "actualprice": 2000,
+    "offerpercent": 0,
+    "image": [
+      {
+        "public_id": "Nike Air Force 1 '07 LE Low image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/2288001M.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 4.5,
+    "href": "/products/66714d2ab56ddd2ad361e6b5"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6ba"
+    },
+    "name": "adidas Originals Campus 00s",
+    "price": 1100,
+    "actualprice": 3000,
+    "offerpercent": 0,
+    "image": [
+      {
+        "public_id": "adidas Originals Campus 00s image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/HQ8708.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 5,
+    "href": "/products/66714d2ab56ddd2ad361e6ba"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6bc"
+    },
+    "name": "New Balance 725",
+    "price": 1400,
+    "actualprice": 2000,
+    "offerpercent": 0,
+    "image": [
+      {
+        "public_id": "New Balance 725 image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/ML725AG.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 4.8,
+    "href": "/products/66714d2ab56ddd2ad361e6bc"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6c1"
+    },
+    "name": "Nike Air Vapormax Plus",
+    "price": 1900,
+    "actualprice": 4000,
+    "offerpercent": 40,
+    "image": [
+      {
+        "public_id": "Nike Air Vapormax Plus image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/K1411400.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 5,
+    "href": "/products/66714d2ab56ddd2ad361e6c1"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6c6"
+    },
+    "name": "Nike KD 17",
+    "price": 1600,
+    "actualprice": 2500,
+    "offerpercent": 15,
+    "image": [
+      {
+        "public_id": "Nike KD 17 image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/J4464001.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 4.8,
+    "href": "/products/66714d2ab56ddd2ad361e6c6"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6ca"
+    },
+    "name": "New Balance 2002R",
+    "price": 1450,
+    "actualprice": 2500,
+    "offerpercent": 30,
+    "image": [
+      {
+        "public_id": "New Balance 2002R image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/M2002RST.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 3.6,
+    "href": "/products/66714d2ab56ddd2ad361e6ca"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6cb"
+    },
+    "name": "Nike Air Foamposite One",
+    "price": 2400,
+    "actualprice": 5000,
+    "offerpercent": 60,
+    "image": [
+      {
+        "public_id": "Nike Air Foamposite One image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/D5855002.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 4,
+    "href": "/products/66714d2ab56ddd2ad361e6cb"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6ce"
+    },
+    "name": "Vans Old Skool",
+    "price": 4499,
+    "actualprice": 10000,
+    "offerpercent": 80,
+    "image": [
+      {
+        "public_id": "Vans Old Skool image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/9Q5BMW.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 3,
+    "href": "/products/66714d2ab56ddd2ad361e6ce"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6d0"
+    },
+    "name": "New Balance 2002R",
+    "price": 1450,
+    "actualprice": 2000,
+    "offerpercent": 10,
+    "image": [
+      {
+        "public_id": "New Balance 2002R image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/M2002RST.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 0,
+    "href": "/products/66714d2ab56ddd2ad361e6d0"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6d2"
+    },
+    "name": "Nike Air Max 270",
+    "price": 1600,
+    "actualprice": 2500,
+    "offerpercent": 20,
+    "image": [
+      {
+        "public_id": "Nike Air Max 270 image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/H8050005.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 2,
+    "href": "/products/66714d2ab56ddd2ad361e6d2"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e6d3"
+    },
+    "name": "adidas Originals Samba",
+    "price": 1000,
+    "actualprice": 2000,
+    "offerpercent": 20,
+    "image": [
+      {
+        "public_id": "adidas Originals Samba image",
+        "url": "https://images.footlocker.com/is/image/EBFL2/IE3437.jpg?wid=250&hei=250"
+      }
+    ],
+    "category": ["Mens", "Shoes"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 2.6,
+    "href": "/products/66714d2ab56ddd2ad361e6d3"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e655"
+    },
+    "name": "Men's 511 Dark Indigo Slim Fit Jeans",
+    "price": 4049,
+    "actualprice": 8099,
+    "offerpercent": 50,
+    "image": [
+      {
+        "public_id": "Men's 511 Dark Indigo Slim Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/A66900003_01_Style_Shot_f3eb5f24-fe42-4108-9ab2-2c7ca7d720c9.jpg?v=1712742795&width=1034"
+      }
+    ],
+    "category": ["Mens", "Jeans", "Slim Fit"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": false,
+    "rating": 0,
+    "href": "/products/66714d2ab56ddd2ad361e655"
+  },
+  {
+    "_id": {
+      "$oid": "66714d2ab56ddd2ad361e657"
+    },
+    "name": "Men's 511 Dark Indigo Slim Fit Jeans",
+    "price": 3849,
+    "actualprice": 7699,
+    "offerpercent": 50,
+    "image": [
+      {
+        "public_id": "Men's 511 Dark Indigo Slim Fit Jeans image",
+        "url": "https://levi.in/cdn/shop/files/A66840004_01_Style_Shot_8da7ecb1-4920-433f-8828-7d36aa827c3c.jpg?v=1712742793&width=1034"
+      }
+    ],
+    "category": ["Mens", "Jeans", "Slim Fit"],
+    "stock": 1,
+    "noOfReviews": 0,
+    "createdAt": {
+      "$date": "2024-05-17T08:41:20.816Z"
+    },
+
+    "free_shipping": true,
+    "rating": 0,
+    "href": "/products/66714d2ab56ddd2ad361e657"
+  }
+]

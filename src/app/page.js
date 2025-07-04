@@ -1,4 +1,5 @@
 import AutomateData from "@/components/addAutomateData";
+import BlogData from "@/components/addBlogData";
 import AddData from "@/components/addData";
 import HeroSection from "@/components/HeroSection/HeroSection";
 import ImageInfoSection from "@/components/ImageInfoSection/ImageInfoSection";
@@ -10,6 +11,7 @@ import {
   fetchRecommendationOptions,
   recommendedProduct,
 } from "@/services/recommendedQuestion.service";
+import UpdateExistingEntries from "@/UpdateExistingEntries";
 
 export default async function Home() {
   // const recommendationRes = await fetchRecommendationOptions();
@@ -21,7 +23,7 @@ export default async function Home() {
   // console.log(blogdata);
 
   return (
-    <div>
+    <div className="flex items-center gap-4">
       {/* <RecentTabSection />
       <ProductRecomEngine
         recommendationRes={recommendationRes}
@@ -30,6 +32,8 @@ export default async function Home() {
 
       {/* <AddData/> */}
      <AutomateData/>
+     <UpdateExistingEntries/>
+     <BlogData/>
     
       {/* <UserTable /> */}
       {/* <HeroSection /> */}

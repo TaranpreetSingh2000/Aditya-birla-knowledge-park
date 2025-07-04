@@ -1,11 +1,9 @@
 "use client";
 import React, { useState } from "react";
-import products from "../constants/footwear.json";
-import { fetchAllCategories } from "@/services/fetchCategory.service";
+import products from "../constants/blog.json";
 
-const AutomateData = () => {
-  const [update, setUpdate] = useState(false);
-  const STRAPI_URL = "http://localhost:1337";
+const BlogData = () => {
+  const STRAPI_URL = "http://localhost:1338";
 
   async function convertBlobToPng(blob, filename) {
     return new Promise((resolve) => {
@@ -34,7 +32,7 @@ const AutomateData = () => {
     try {
       const response = await fetch(imageUrl);
       const jpegBlob = await response.blob();
-      let filename = imageUrl.split("/").pop() || "upload.jpg";
+      let filename = imageUrl.split("/").pop();
 
       filename = filename.includes("_")
         ? filename.split("_").join("").toLowerCase()
@@ -69,39 +67,27 @@ const AutomateData = () => {
     }
   };
 
-  // 2. Main product import function
   const handleImport = async () => {
-    setUpdate(false);
     debugger;
-    const categoryMap = await fetchAllCategories();
-
-    console.log(categoryMap, "---> catgeoryMap");
 
     for (const product of products) {
       try {
-        const imageId = await uploadUserImage(product.image[0].url);
-        const { createdAt, _id, category, ...rest } = product;
-        const categoryIds = (product.category || [])
-          .map((name) => categoryMap[name])
-          .filter(Boolean);
+        const imageId = await uploadUserImage(product.image);
 
-        const res = await fetch(`${STRAPI_URL}/api/footwears`, {
+        const res = await fetch(`${STRAPI_URL}/api/blog-articles`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
             data: {
-              ...rest,
-              createdAtDate: product.createdAt.$date,
-              image: imageId ? imageId : null,
-              categories: categoryIds,
+              ...product,
+              image: imageId,
             },
           }),
         });
 
         const result = await res.json();
-        setUpdate(true);
         console.log("Created:", result);
       } catch (error) {
         console.error("Failed to create product:", error);
@@ -117,10 +103,8 @@ const AutomateData = () => {
       >
         Import Products
       </button>
-
-      {update && <p>Data updated successfully</p>}
     </div>
   );
 };
 
-export default AutomateData;
+export default BlogData;

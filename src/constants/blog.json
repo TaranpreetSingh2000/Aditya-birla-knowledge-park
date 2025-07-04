@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Mastering Next.js with Strapi",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+    "subHeading": "Learn how to integrate powerful CMS capabilities into your React app using Strapi."
+  },
+  {
+    "title": "Deploy Your Full-Stack App with Vercel",
+    "image": "https://images.unsplash.com/photo-1591696331115-839eeec9fc9e",
+    "subHeading": "Step-by-step guide to deploying a production-ready app using Vercel."
+  },
+  {
+    "title": "Authentication in Next.js with Strapi JWT",
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=800&q=80",
+    "subHeading": "Implement secure authentication using JWT tokens with Strapi and Next.js."
+  },
+  {
+    "title": "Building a Custom Rich Text Editor in Strapi",
+    "image": "https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=800&q=80",
+    "subHeading": "Customize and extend Strapi's admin panel to support your editorial workflow."
+  },
+  {
+    "title": "Understanding Next.js Server Components",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+    "subHeading": "Unlock the power of Server Components for performance and SEO."
+  },
+  {
+    "title": "Creating Dynamic Pages with Strapi Relations",
+    "image": "https://images.unsplash.com/photo-1591696331115-839eeec9fc9e",
+    "subHeading": "Use Strapi relations and dynamic routing in Next.js to build content-rich sites."
+  },
+  {
+    "title": "Securing Your CMS: Best Practices for Strapi",
+    "image": "https://images.unsplash.com/photo-1591696331115-839eeec9fc9e",
+    "subHeading": "Tips and strategies to protect your headless CMS from common vulnerabilities."
+  },
+  {
+    "title": "Optimizing SEO in Next.js with Dynamic Metadata",
+    "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=800&q=80",
+    "subHeading": "Improve discoverability with programmatic metadata generation in your blog."
+  },
+  {
+    "title": "Building a Portfolio Site with Strapi and Tailwind",
+    "image": "https://images.unsplash.com/photo-1591696331115-839eeec9fc9e",
+    "subHeading": "Showcase your work by combining Strapi’s API with Tailwind’s modern UI toolkit."
+  },
+  {
+    "title": "Importing Data into Strapi via Custom Plugins",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+    "subHeading": "Automate data migration by writing your own Strapi plugin to import content from JSON."
+  },
+  {
+    "title": "Understanding Next.js Server Components",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "subHeading": "Unlock the power of Server Components for performance and SEO."
+  },
+  {
+    "title": "Creating Dynamic Pages with Strapi Relations",
+    "image": "https://images.unsplash.com/photo-1505685296765-3a2736de412f",
+    "subHeading": "Use Strapi relations and dynamic routing in Next.js to build content-rich sites."
+  },
+  {
+    "title": "Securing Your CMS: Best Practices for Strapi",
+    "image": "https://images.unsplash.com/photo-1591696331115-839eeec9fc9e",
+    "subHeading": "Tips and strategies to protect your headless CMS from common vulnerabilities."
+  },
+  {
+    "title": "Optimizing SEO in Next.js with Dynamic Metadata",
+    "image": "https://images.unsplash.com/photo-1537432376769-00a0051f5f4e",
+    "subHeading": "Improve discoverability with programmatic metadata generation in your blog."
+  }
+]
